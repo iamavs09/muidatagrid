@@ -8,14 +8,12 @@ import { DataGrid } from '@mui/x-data-grid';
 //   city: 'Delhi',
 //   weather: '42degreeC',
 //   CurrentDt: '29/05/2023 11:11:00',
-//   windSpeed: '32mph',
 // },
 // {
 //   id: '2',
 //   city: 'Chandigarh',
 //   weather: '38degreeC',
 //   CurrentDt: '29/05/2023 11:11:00',
-//   windSpeed: '39mph',
 // },
 // ]
   
